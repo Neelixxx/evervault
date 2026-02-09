@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"prisma.schemaPath": "C:\\Users\\Jeff\\evervault\\web\\prisma\\schema.prisma",
+		"prisma.pinToPrisma6": true
+	}
+}
